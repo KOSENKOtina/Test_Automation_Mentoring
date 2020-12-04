@@ -1,0 +1,19 @@
+{
+  "name": "test_automation_mentoring",
+  "version": "1.0.0",
+  "description": "This package is created for Valentyna's EPAM test automation mentoring programm",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOSENKOtina/Test_Automation_Mentoring.git"
+  },
+  "author": "Valentyna Kosenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOSENKOtina/Test_Automation_Mentoring/issues"
+  },
+  "homepage": "https://github.com/KOSENKOtina/Test_Automation_Mentoring#readme"
+}
